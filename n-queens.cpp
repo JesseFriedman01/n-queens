@@ -22,7 +22,6 @@ int main()
 		
 	vector<char> main ( 1 );   
 	
-	cout<<"EXTRA CREDIT"<<endl<<endl;
 	cout<<"A. Enter \"perms\" to see all of the permutations of N characters (stack memory may need to be increased based on # of characters). "<<endl<<endl;
 	cout<<"B. Enter \"queens\" to see the solutions to the Queens problem on an N * N board (stack memory may need to be increased based on size of board)."<<endl<<endl;
 	cout<<"C. Enter \"change\" to minimum # of coins in N amount of money."<<endl;
