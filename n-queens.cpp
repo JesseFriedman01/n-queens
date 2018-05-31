@@ -19,7 +19,7 @@ int main()
 	double amount = 0;
 	string selection, keep_going;
 	char vector_char;
-		
+				
 	vector<char> main ( 1 );   
 	
 	cout<<"A. Enter \"perms\" to see all of the permutations of N characters (stack memory may need to be increased based on # of characters). "<<endl<<endl;
